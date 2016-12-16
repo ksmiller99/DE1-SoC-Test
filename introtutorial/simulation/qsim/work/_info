@@ -1,0 +1,91 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/quartusprojects/introtutorial/simulation/qsim
+vlight
+Z1 !s110 1481648499
+!i10b 1
+!s100 ]D0_YMm_[jUmAGSLFm<VB2
+IMVi@XU?aVNB7DCfPES6E23
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1481648498
+8light.vo
+Flight.vo
+L0 32
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1481648499.000000
+!s107 light.vo|
+!s90 -work|work|light.vo|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+Elight_vhd_vec_tst
+Z7 w1481648445
+Z8 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z9 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z10 8Waveform.vwf.vht
+Z11 FWaveform.vwf.vht
+l0
+L32
+VJj>mnjWhlh5GfgQX8o6D`0
+!s100 R;dXgVCSL[igUPD3gh88F3
+Z12 OV;C;10.5b;63
+32
+Z13 !s110 1481648447
+!i10b 1
+Z14 !s108 1481648447.000000
+Z15 !s90 -work|work|Waveform.vwf.vht|
+Z16 !s107 Waveform.vwf.vht|
+!i113 1
+R5
+Z17 tExplicit 1 CvgOpt 0
+Alight_arch
+R8
+R9
+DEx4 work 17 light_vhd_vec_tst 0 22 Jj>mnjWhlh5GfgQX8o6D`0
+l47
+L34
+VjN@C]4=f99o8e?e3JCRd52
+!s100 Pe@98J_fPiLdUQb6`AC8m2
+R12
+32
+R13
+!i10b 1
+R14
+R15
+R16
+!i113 1
+R5
+R17
+vlight_vlg_vec_tst
+R1
+!i10b 1
+!s100 0:8oCmPce:QMjfn02<3643
+IIHSO_27?9gh`2nFIa9PDc3
+R2
+R0
+w1481648497
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+L0 30
+R3
+r1
+!s85 0
+31
+R4
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R5
+R6

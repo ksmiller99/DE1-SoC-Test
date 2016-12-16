@@ -1,0 +1,181 @@
+$comment
+	File created using the following command:
+		vcd file HW82.msim.vcd -direction
+$end
+$date
+	Tue Dec 13 14:19:27 2016
+$end
+$version
+	ModelSim Version 10.5b
+$end
+$timescale
+	1ps
+$end
+
+$scope module HW82_vlg_vec_tst $end
+$var reg 1 ! CLK $end
+$var wire 1 " Q0 $end
+$var wire 1 # Q1 $end
+$var wire 1 $ Q2 $end
+
+$scope module i1 $end
+$var wire 1 % gnd $end
+$var wire 1 & vcc $end
+$var wire 1 ' unknown $end
+$var tri1 1 ( devclrn $end
+$var tri1 1 ) devpor $end
+$var tri1 1 * devoe $end
+$var wire 1 + Q0~output_o $end
+$var wire 1 , Q1~output_o $end
+$var wire 1 - Q2~output_o $end
+$var wire 1 . CLK~input_o $end
+$var wire 1 / FF0~0_combout $end
+$var wire 1 0 FF0~q $end
+$var wire 1 1 inst16~0_combout $end
+$var wire 1 2 FF1~q $end
+$var wire 1 3 FF2~0_combout $end
+$var wire 1 4 FF2~q $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0!
+0"
+0#
+0$
+0%
+1&
+x'
+1(
+1)
+1*
+0+
+0,
+0-
+0.
+1/
+00
+11
+02
+13
+04
+$end
+#10000
+1!
+1.
+14
+12
+10
+1+
+1,
+1-
+1$
+1#
+1"
+0/
+#20000
+0!
+0.
+#30000
+1!
+1.
+00
+0+
+0"
+01
+1/
+#40000
+0!
+0.
+#50000
+1!
+1.
+02
+10
+1+
+0,
+0#
+1"
+0/
+#60000
+0!
+0.
+#70000
+1!
+1.
+00
+0+
+0"
+03
+11
+1/
+#80000
+0!
+0.
+#90000
+1!
+1.
+04
+12
+10
+1+
+1,
+0-
+0$
+1#
+1"
+0/
+#100000
+0!
+0.
+#110000
+1!
+1.
+00
+0+
+0"
+01
+1/
+#120000
+0!
+0.
+#130000
+1!
+1.
+02
+10
+1+
+0,
+0#
+1"
+0/
+#140000
+0!
+0.
+#150000
+1!
+1.
+00
+0+
+0"
+13
+11
+1/
+#160000
+0!
+0.
+#170000
+1!
+1.
+14
+12
+10
+1+
+1,
+1-
+1$
+1#
+1"
+0/
+#180000

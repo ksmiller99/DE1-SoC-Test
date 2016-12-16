@@ -1,0 +1,15 @@
+vendor_name = ModelSim
+source_file = 1, C:/quartusprojects/OneBitALUGraphic/OneBitALUGraphic.vwf
+source_file = 1, C:/quartusprojects/OneBitALUGraphic/OneBitALUGraphic.bdf
+source_file = 1, C:/quartusprojects/OneBitALUGraphic/db/OneBitALUGraphic.cbx.xml
+design_name = OneBitALUGraphic
+instance = comp, \cout~output , cout~output, OneBitALUGraphic, 1
+instance = comp, \fout~output , fout~output, OneBitALUGraphic, 1
+instance = comp, \b~input , b~input, OneBitALUGraphic, 1
+instance = comp, \a~input , a~input, OneBitALUGraphic, 1
+instance = comp, \ct2~input , ct2~input, OneBitALUGraphic, 1
+instance = comp, \cinAp0Og0~0 , cinAp0Og0~0, OneBitALUGraphic, 1
+instance = comp, \ct0~input , ct0~input, OneBitALUGraphic, 1
+instance = comp, \ct1~input , ct1~input, OneBitALUGraphic, 1
+instance = comp, \inst17~0 , inst17~0, OneBitALUGraphic, 1
+instance = comp, \~QUARTUS_CREATED_GND~I , ~QUARTUS_CREATED_GND~I, OneBitALUGraphic, 1

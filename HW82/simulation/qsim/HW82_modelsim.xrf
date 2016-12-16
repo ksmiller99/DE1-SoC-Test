@@ -1,0 +1,12 @@
+vendor_name = ModelSim
+source_file = 1, C:/quartusprojects/HW82/HW82.bdf
+source_file = 1, C:/quartusprojects/HW82/HW82.vwf
+source_file = 1, C:/quartusprojects/HW82/db/HW82.cbx.xml
+design_name = HW82
+instance = comp, \Q0~output , Q0~output, HW82, 1
+instance = comp, \Q1~output , Q1~output, HW82, 1
+instance = comp, \Q2~output , Q2~output, HW82, 1
+instance = comp, \CLK~input , CLK~input, HW82, 1
+instance = comp, \FF0~0 , FF0~0, HW82, 1
+instance = comp, \inst16~0 , inst16~0, HW82, 1
+instance = comp, \FF2~0 , FF2~0, HW82, 1

@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/quartusprojects/OneBitALUGraphic/simulation/qsim
+vOneBitALUGraphic
+Z1 !s110 1481662877
+!i10b 1
+!s100 A^eac:7AF;fg;l;45f9;a1
+IhRkmR]17aL]]2D>bJh=H;3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1481662876
+8OneBitALUGraphic.vo
+FOneBitALUGraphic.vo
+L0 32
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1481662877.000000
+!s107 OneBitALUGraphic.vo|
+!s90 -work|work|OneBitALUGraphic.vo|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@one@bit@a@l@u@graphic
+vOneBitALUGraphic_vlg_vec_tst
+R1
+!i10b 1
+!s100 ?MG1?D6fG0:_mFkVcW[9B3
+IA1>BO^>fHQFzWm0OSP9k11
+R2
+R0
+w1481662875
+8OneBitALUGraphic.vwf.vt
+FOneBitALUGraphic.vwf.vt
+L0 30
+R3
+r1
+!s85 0
+31
+R4
+!s107 OneBitALUGraphic.vwf.vt|
+!s90 -work|work|OneBitALUGraphic.vwf.vt|
+!i113 1
+R5
+R6
+n@one@bit@a@l@u@graphic_vlg_vec_tst

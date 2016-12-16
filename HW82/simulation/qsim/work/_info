@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/quartusprojects/HW82/simulation/qsim
+vHW82
+Z1 !s110 1481656766
+!i10b 1
+!s100 1ggHeeVcZ_N;eH3QKXC1W2
+IIokP976S;z_ca6?EY2NCi2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1481656765
+8HW82.vo
+FHW82.vo
+L0 32
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1481656766.000000
+!s107 HW82.vo|
+!s90 -work|work|HW82.vo|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@h@w82
+vHW82_vlg_vec_tst
+R1
+!i10b 1
+!s100 =dGBg]aTQMIVW<j;WYSR[0
+I_?H<hNK4MmGBiZ;WdS9Ik3
+R2
+R0
+R3
+8HW82.vwf.vt
+FHW82.vwf.vt
+L0 30
+R4
+r1
+!s85 0
+31
+R5
+!s107 HW82.vwf.vt|
+!s90 -work|work|HW82.vwf.vt|
+!i113 1
+R6
+R7
+n@h@w82_vlg_vec_tst

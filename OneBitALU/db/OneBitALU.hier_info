@@ -1,0 +1,27 @@
+|OneBitALU
+a => g0.IN1
+a => p0.IN1
+a => aAb.IN0
+a => aOb.IN0
+b => bXOcin.IN0
+b => aAb.IN1
+b => aOb.IN1
+b => bNSel.IN0
+fout << fout.DB_MAX_OUTPUT_PORT_TYPE
+ct0 => andSel.IN1
+ct0 => bNSel.IN1
+ct0 => addSel.IN1
+ct0 => orSel.IN1
+ct1 => orSel.IN1
+ct1 => bNSel.IN1
+ct1 => addSel.IN1
+ct1 => andSel.IN1
+ct2 => bXOcin.IN1
+ct2 => aPb.IN1
+ct2 => cout.IN1
+ct2 => andSel.IN1
+ct2 => orSel.IN1
+ct2 => bNSel.IN1
+cout << cout.DB_MAX_OUTPUT_PORT_TYPE
+
+

@@ -1,0 +1,25 @@
+|OneBitALUGraphic
+cout <= cinAp0Og0.DB_MAX_OUTPUT_PORT_TYPE
+ct2 => cinAp0.IN0
+ct2 => bXOcin.IN1
+ct2 => ct2N.IN0
+ct2 => aPb.IN1
+a => p0.IN0
+a => g0.IN0
+a => aAb.IN0
+a => aOb.IN1
+b => bXOcin.IN0
+b => bN.IN0
+b => aAb.IN1
+b => aOb.IN0
+fout <= inst17.DB_MAX_OUTPUT_PORT_TYPE
+ct1 => notSel.IN1
+ct1 => ct1N.IN0
+ct1 => addSel.IN1
+ct1 => orSel.IN1
+ct0 => notSel.IN2
+ct0 => andSel.IN2
+ct0 => addSel.IN0
+ct0 => ct0N.IN0
+
+
